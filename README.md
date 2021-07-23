@@ -1,1 +1,1 @@
-# Nedrock Edition Dictionar
+# Bedrock Edition Dictionar
