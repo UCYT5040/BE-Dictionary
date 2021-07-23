@@ -1,2 +1,2 @@
 # Bedrock Edition Dictionary
-- [Websocket Servers](/minecraft-ws.md)
+- [Websocket Servers](/MinecraftWS.md)
